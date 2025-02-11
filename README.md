@@ -48,20 +48,19 @@
 
 4. **FERV39k**  
    - 描述：包含 39 种精细表情类别的大规模视频数据集  
-   - 下载链接：[FERV39k GitHub](https://github.com/wangyanckxx/FERV39k)（需签署协议）
+   - 下载链接：[FERV39k GitHub](https://github.com/wangyanckxx/FERV39k)
 
 5. **MAFW**  
-   - 描述：多属性（表情+年龄+性别）标注的野外视频数据集  
-   - 下载链接：[MAFW Dataset](https://mafw-dataset.github.io/)（CC BY 4.0 协议）
+   - 描述：多属性标注的野外视频数据集  
+   - 下载链接：[MAFW Dataset](https://mafw-database.github.io/MAFW/)
 
 6. **MER24**  
-   - 描述：高帧率微表情视频数据集（24 种微表情类别）  
-   - 下载链接：[MER24 Dataset](https://mer24-dataset.org/)（需机构邮箱申请）
+   - 描述：高帧率微表情视频数据集
+   - 下载链接：[MER24 Dataset](https://zeroqiaoba.github.io/MER2024-website/)
 
 7. **RAVDESS**  
-   - 描述：多模态（视频+音频）情感表达数据集（8 种情感）  
-   - 下载链接：[RAVDESS Download](https://zenodo.org/record/1188976)（CC BY-SA 4.0 协议）
-
+   - 描述：多模态（视频+音频）情感表达数据集
+   - 下载链接：[RAVDESS Download](https://github.com/tuncayka/speech_emotion)
 ### 版权声明
 - ⚠️ **本仓库不包含原始视频文件**，仅提供标注信息。
 - 用户需**自行下载原始数据集**并遵守其许可协议（通常限研究用途）。
@@ -81,10 +80,12 @@
 
 如果本数据对您的研究有帮助，请引用我们的技术报告（筹备中）或使用如下格式致谢：
 ```bibtex
-@misc{FEVCD2023,
-  author       = {Your Team Name},
-  title        = {Facial Expression Video-Caption Dataset},
-  year         = {2023},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/your_username/your_repo}}
+@misc{zhao2025facialdynamicsvideoinstruction,
+      title={Facial Dynamics in Video: Instruction Tuning for Improved Facial Expression Perception and Contextual Awareness}, 
+      author={Jiaxing Zhao and Boyuan Sun and Xiang Chen and Xihan Wei},
+      year={2025},
+      eprint={2501.07978},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.07978}, 
 }
