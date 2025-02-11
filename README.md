@@ -36,19 +36,19 @@
 测试集中 800 条样本的视频来源如下（已验证描述准确性）：
 1. **AFEW-VA**  
    - 描述：带情感效价（Valence-Arousal）连续值标注的视频片段  
-   - 下载链接：[AFEW-VA Dataset](https://www.openu.ac.il/home/hassner/AFEW-VA/)（需邮件申请）
+   - 下载链接：[AFEW-VA Dataset]([https://www.openu.ac.il/home/hassner/AFEW-VA/](https://ibug.doc.ic.ac.uk/resources/afew-va-database/))（
 
 2. **CAER_mp4**  
    - 描述：基于上下文场景的情感识别视频数据集  
-   - 下载链接：[CAER GitHub](https://github.com/ok1nagi/caer)（直接下载）
+   - 下载链接：[CAER GitHub]([https://github.com/ok1nagi/caer](https://caer-dataset.github.io/))
 
 3. **DFEW**  
    - 描述：野外环境下动态面部表情视频数据集（7 种基础表情）  
-   - 下载链接：[DFEW Dataset](https://dfew-dataset.github.io/)（CC BY-NC-SA 4.0 协议）
+   - 下载链接：[DFEW Dataset]([https://dfew-dataset.github.io/](https://dfew-dataset.github.io/))
 
 4. **FERV39k**  
    - 描述：包含 39 种精细表情类别的大规模视频数据集  
-   - 下载链接：[FERV39k GitHub](https://github.com/Facial-Expression-Recognition/FERV)（需签署协议）
+   - 下载链接：[FERV39k GitHub]([https://github.com/Facial-Expression-Recognition/FERV](https://github.com/wangyanckxx/FERV39k))（需签署协议）
 
 5. **MAFW**  
    - 描述：多属性（表情+年龄+性别）标注的野外视频数据集  
